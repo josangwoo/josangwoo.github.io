@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Sangwoo Jo</title>
+    <title>Pages on Sangwoo&#39;s Note</title>
     <link>https://sangwoojo.com/page/</link>
-    <description>Recent content in Pages on Sangwoo Jo</description>
+    <description>Recent content in Pages on Sangwoo&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sangwoojo.com/page/index.xml" rel="self" type="application/rss+xml" />
@@ -13,15 +13,6 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sangwoojo.com/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Categories</title>
-      <link>https://sangwoojo.com/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangwoojo.com/categories/</guid>
       <description></description>
     </item>
     
