@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sangwoo&#39;s Note</title>
-    <link>https://sangwoojo.com/post/</link>
-    <description>Recent content in Posts on Sangwoo&#39;s Note</description>
+    <title>HTML on Sangwoo&#39;s Note</title>
+    <link>https://sangwoojo.com/categories/html/</link>
+    <description>Recent content in HTML on Sangwoo&#39;s Note</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sangwoojo.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://sangwoojo.com/categories/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML - name, id, class 속성 차이</title>
       <link>https://sangwoojo.com/p/html-name-id-class-%EC%86%8D%EC%84%B1-%EC%B0%A8%EC%9D%B4/</link>
@@ -14,18 +14,6 @@
       
       <guid>https://sangwoojo.com/p/html-name-id-class-%EC%86%8D%EC%84%B1-%EC%B0%A8%EC%9D%B4/</guid>
       <description>1. name  &amp;lt;form&amp;gt; 태그 요소의 value 속성의 값을 서버로 전송하기 위한 속성입니다. CSS에 활용 불가능합니다.  &amp;lt;form action=&amp;#34;sign_up.php&amp;#34; method=&amp;#34;post&amp;#34;&amp;gt; &amp;lt;input type=&amp;#34;hidden&amp;#34; name=&amp;#34;check&amp;#34; value=&amp;#34;ok&amp;#34;&amp;gt; ... &amp;lt;/form&amp;gt; 2. id  페이지에서 고유한 요소 식별을 목적으로 사용합니다. CSS에서 선택자로 활용됩니다.  &amp;lt;form&amp;gt; &amp;lt;label for=&amp;#34;user-name&amp;#34;&amp;gt;사용자 이름&amp;lt;label&amp;gt; &amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;user-name&amp;#34;&amp;gt; &amp;lt;/form&amp;gt; 3. class  성격이 동일한 요소들을 그룹으로 묶는 목적으로 사용합니다. CSS에서 선택자로 활용됩니다.  &amp;lt;h2 class=&amp;#34;bluetext&amp;#34;&amp;gt;제목&amp;lt;/h2&amp;gt; &amp;lt;p clas=&amp;#34;bluetext&amp;#34;&amp;gt;내용&amp;lt;/p&amp;gt; /*CSS*/ .bluetext { color:blue; } </description>
-    </item>
-    
-    <item>
-      <title>블로그 작성 목적</title>
-      <link>https://sangwoojo.com/p/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%84%B1-%EB%AA%A9%EC%A0%81/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sangwoojo.com/p/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%84%B1-%EB%AA%A9%EC%A0%81/</guid>
-      <description>블로그를 작성하게 된 목적은 다음과 같다.
- 공부한 것을 기록 경험한 것을 기록 정보의 공유 글쓰기 능력 향상  공부한 것을 기록 공부한 것은 일반 노트에도 기록 할 수 있다. 하지만 블로그를 활용하면 좀 더 정교하게 기록할 수 있다.
-경험한 것을 기록 경험한 것을 기록하는 이유는 경험을 통해 배운 교훈을 잊지 않고 저장하는 것이다.
-정보의 공유 정보는 다른 사람을 위해 쓸 때 비로소 가치가 있다고 생각한다. 그 중 하나는 정보의 공유이다.</description>
     </item>
     
   </channel>
